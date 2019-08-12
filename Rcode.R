@@ -1,3 +1,3 @@
 ##R project
 
-jjjkk
+set.seed(1)
